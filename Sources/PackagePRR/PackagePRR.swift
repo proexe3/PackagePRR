@@ -2,10 +2,10 @@
 // https://docs.swift.org/swift-book
 
 
-open class PRR {
-    public var name: String
+open class names {
+    public var employeeName: String
     
-    public init(name: String) {
-        self.name = name
+    public init(empName: String) {
+        self.employeeName = empName
     }
 }
